@@ -1,4 +1,5 @@
 from django.http import HttpResponse
+from django.shortcuts import render, redirect, reverse
 
 def index(request):
-    return render(request, '/main-page.html')
+    return render(request, 'portfolio/index.html')
