@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-j^y^obg-t3cblo2r9gy!8+c168vhr@8ltayd+m7b-b5fzpu^i#
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://wayne-hayden-portfolio.herokuapp.com/",
+    "wayne-hayden-portfolio.herokuapp.com",
 ]
 
 
